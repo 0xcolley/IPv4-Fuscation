@@ -8,3 +8,5 @@ I will not include the method to deobfuscate these payloads, but you can apply t
 
 # Credit
 Most code is from MalDev Academy, I will update this as I find more usage for it, however it was first seen being used by Hive Randsomeware Group.
+
+
