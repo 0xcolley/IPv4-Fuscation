@@ -6,7 +6,3 @@ IPv4 addresses are 4 octets, this implementation takes advantage of this to gene
 # Drawbacks
 I will not include the method to deobfuscate these payloads, but you can apply the same method for both IPv4 and IPv6 (also possible) obfuscation. Nor will I cover how to execute these payloads.
 
-# Credit
-Most code is from MalDev Academy, I will update this as I find more usage for it, however it was first seen being used by Hive Randsomeware Group.
-
-
